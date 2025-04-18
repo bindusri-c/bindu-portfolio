@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bindu-portfolio/static/css/main.37f774c6.css",
+    "main.js": "/bindu-portfolio/static/js/main.0ae782cb.js",
+    "static/media/bindu2.jpg": "/bindu-portfolio/static/media/bindu2.2d74c1b4a03d168b5f79.jpg",
+    "static/media/bindu.jpg": "/bindu-portfolio/static/media/bindu.0dd9afcf95a21ecb8d1a.jpg",
+    "static/media/profesional.jpg": "/bindu-portfolio/static/media/profesional.1513e4ded0e6f1af3949.jpg",
+    "static/media/bindu3.jpg": "/bindu-portfolio/static/media/bindu3.59cf219e233768f00f08.jpg",
+    "static/media/srkr.jpg": "/bindu-portfolio/static/media/srkr.da3d7b98afc824095de6.jpg",
+    "index.html": "/bindu-portfolio/index.html",
+    "main.37f774c6.css.map": "/bindu-portfolio/static/css/main.37f774c6.css.map",
+    "main.0ae782cb.js.map": "/bindu-portfolio/static/js/main.0ae782cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37f774c6.css",
+    "static/js/main.0ae782cb.js"
+  ]
+}
