@@ -6,13 +6,25 @@ const Projects = () => (
       Projects
     </h2>
 
-    <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto">
+    <div className="grid md:grid-cols-3 lg:grid-cols-3 gap-8 max-w-6xl mx-auto">
       {[
         {
           title: "ArtifactNet Real/Fake + Classifier",
           github: "https://devpost.com/software/artifactnet?ref_content=user-portfolio&ref_feature=in_progress",
           demo: "#",
           img: "realvsfake.jpg",
+        },
+        {
+          title: "Portfolio",
+          github: "https://github.com/bindusri-c/bindu-portfolio",
+          demo: "https://bindusri-c.github.io/bindu-portfolio/",
+          img: "bindu.jpg",
+        },
+        {
+          title: "TeamWIse",
+          github: "https://devpost.com/software/teamwise",
+          demo: "https://teamwise-kohl.vercel.app/",
+          img: "TeamWise.png",
         },
         {
           title: "Real-Time Yawning Detection",
@@ -29,13 +41,13 @@ const Projects = () => (
         {
           title: "Power BI Movie Recommender",
           github: "https://drive.google.com/file/d/1u-9l-HDk8PrYJonwccIzXgpfdte37kuL/view?usp=drive_link",
-          demo: "#",
+          demo: "https://www.linkedin.com/posts/bindu-srivalli-nagineni-19686820b_powerbi-machinelearning-nlp-activity-7245064333095788544-nK1Z?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVXrQIBA1T_JN0rfl0oHu2Jby--Mpjf7bs",
           img: "dashboard.jpg",
         },
         {
           title: "Docker: Raft Assignment",
           github: "https://github.com/bindusri-c/Docker",
-          demo: "",
+          demo: "#",
           img: "docker.png",
         },
         {
