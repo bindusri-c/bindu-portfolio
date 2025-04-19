@@ -10,39 +10,39 @@ const Projects = () => (
       {[
         {
           title: "ArtifactNet Real/Fake + Classifier",
-          github: "#",
+          github: "https://devpost.com/software/artifactnet?ref_content=user-portfolio&ref_feature=in_progress",
           demo: "#",
-          img: "bindu.jpg",
+          img: "realvsfake.jpg",
         },
         {
           title: "Real-Time Yawning Detection",
-          github: "#",
+          github: "https://github.com/bindusri-c/yawn-phone-detector",
           demo: "#",
-          img: "bindu.jpg",
+          img: "yawning.jpg",
         },
         {
           title: "Crime Trend Forecast",
-          github: "#",
+          github: "https://devpost.com/software/forecasting-crime-trends-across-india?ref_content=user-portfolio&ref_feature=in_progress",
           demo: "#",
-          img: "bindu.jpg",
+          img: "india_crime.jpg",
         },
         {
           title: "Power BI Movie Recommender",
-          github: "#",
+          github: "https://drive.google.com/file/d/1u-9l-HDk8PrYJonwccIzXgpfdte37kuL/view?usp=drive_link",
           demo: "#",
-          img: "bindu.jpg",
+          img: "dashboard.jpg",
         },
         {
           title: "Docker: Raft Assignment",
-          github: "#",
-          demo: "#",
-          img: "bindu.jpg",
+          github: "https://github.com/bindusri-c/Docker",
+          demo: "",
+          img: "docker.png",
         },
         {
           title: "Heart Disease Prediction",
-          github: "#",
+          github: "https://github.com/bindusri-c/Heart-disease-prediction-",
           demo: "#",
-          img: "bindu.jpg",
+          img: "ML.png",
         },
       ].map((project, i) => (
         <div
