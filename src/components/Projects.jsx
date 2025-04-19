@@ -39,6 +39,12 @@ const Projects = () => (
           img: "docker.png",
         },
         {
+          title: "Portfolio",
+          github: "https://github.com/bindusri-c/bindu-portfolio",
+          demo: "https://bindusri-c.github.io/bindu-portfolio/",
+          img: "bindu.png",
+        },
+        {
           title: "Heart Disease Prediction",
           github: "https://github.com/bindusri-c/Heart-disease-prediction-",
           demo: "#",

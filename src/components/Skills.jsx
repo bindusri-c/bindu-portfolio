@@ -23,7 +23,8 @@ const Skills = () => (
           <FaBrain className="text-purple-500" />
           Machine Learning
         </h3>
-        <p>Scikit-learn, TensorFlow, NLP, LSTM, Regression, Classification, EfficientNet</p>
+        <p>Scikit-learn, TensorFlow, NLP, Regression, Classification, EfficientNet, Object Detection, YOLO, Haar Cascades
+        </p>
       </div>
 
       {/* Data Tools */}
@@ -50,7 +51,7 @@ const Skills = () => (
           <FaAws className="text-orange-400" />
           Cloud & DevOps
         </h3>
-        <p>AWS, Docker, Azure DevOps</p>
+        <p>AWS, Docker, Azure DevOps, Git, GitHub, GitHub Pages, gh-pages, CI/CD Basic</p>
       </div>
 
       {/* Database & ETL */}
@@ -59,7 +60,8 @@ const Skills = () => (
           <FaDatabase className="text-green-600" />
           Database & ETL
         </h3>
-        <p>MySQL, Redshift, Apache Kafka, Hadoop</p>
+        <p>MySQL, Redshift, Apache Kafka, Hadoop, Real-time session tracking
+        </p>
       </div>
 
       {/* Computer Vision */}
@@ -68,7 +70,8 @@ const Skills = () => (
           <FaEye className="text-red-500" />
           Computer Vision & Real-Time Processing
         </h3>
-        <p>OpenCV, Haar Cascades, Real-time Video Analysis</p>
+        <p>OpenCV, Haar Cascades, Real-time Video Analysis, Yawn & Phone Detection
+        </p>
       </div>
     </div>
   </section>
