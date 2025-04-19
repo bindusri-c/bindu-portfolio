@@ -6,7 +6,7 @@ const Projects = () => (
       Projects
     </h2>
 
-    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
+    <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto">
       {[
         {
           title: "ArtifactNet Real/Fake + Classifier",
@@ -39,12 +39,6 @@ const Projects = () => (
           img: "docker.png",
         },
         {
-          title: "Portfolio",
-          github: "https://github.com/bindusri-c/bindu-portfolio",
-          demo: "https://bindusri-c.github.io/bindu-portfolio/",
-          img: "bindu.png",
-        },
-        {
           title: "Heart Disease Prediction",
           github: "https://github.com/bindusri-c/Heart-disease-prediction-",
           demo: "#",
@@ -55,26 +49,18 @@ const Projects = () => (
           key={i}
           className="bg-white rounded-xl overflow-hidden shadow-md transform transition duration-300 hover:scale-[1.03] hover:shadow-xl border border-gray-200"
         >
-          {/* Image with hover overlay (only if demo exists and is not "#" or empty) */}
+          {/* Image with hover overlay */}
           <div className="relative group">
-            {project.demo && project.demo !== "#" ? (
-              <a href={project.demo} target="_blank" rel="noopener noreferrer">
-                <img
-                  src={require(`../assets/${project.img}`)}
-                  alt={project.title}
-                  className="w-full h-48 object-cover transition-opacity duration-300 group-hover:opacity-80"
-                />
-                <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition bg-black bg-opacity-30 text-white text-sm font-medium">
-                  Click to View Demo
-                </div>
-              </a>
-            ) : (
+            <a href={project.demo} target="_blank" rel="noopener noreferrer">
               <img
                 src={require(`../assets/${project.img}`)}
                 alt={project.title}
-                className="w-full h-48 object-cover"
+                className="w-full h-48 object-cover transition-opacity duration-300 group-hover:opacity-80"
               />
-            )}
+              <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition bg-black bg-opacity-30 text-white text-sm font-medium">
+                Click to View Demo
+              </div>
+            </a>
           </div>
 
           {/* Title + Links */}
