@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/bindu-portfolio/static/css/main.37f774c6.css",
-    "main.js": "/bindu-portfolio/static/js/main.f0ecb4d9.js",
+    "main.css": "/bindu-portfolio/static/css/main.c118f032.css",
+    "main.js": "/bindu-portfolio/static/js/main.a37f0cca.js",
     "static/media/realvsfake.jpg": "/bindu-portfolio/static/media/realvsfake.b301460177fcd7b11c5a.jpg",
     "static/media/yawning.jpg": "/bindu-portfolio/static/media/yawning.52fbaa0a1805a33f3929.jpg",
     "static/media/india_crime.jpg": "/bindu-portfolio/static/media/india_crime.61f0a6e25480f91fd90b.jpg",
+    "static/media/TeamWise.png": "/bindu-portfolio/static/media/TeamWise.0ecbe5fd79d243d0ad3c.png",
     "static/media/docker.png": "/bindu-portfolio/static/media/docker.d11c1d9b1b95193d906e.png",
     "static/media/dashboard.jpg": "/bindu-portfolio/static/media/dashboard.1a2061d3bb082cf395f0.jpg",
     "static/media/bindu2.jpg": "/bindu-portfolio/static/media/bindu2.2d74c1b4a03d168b5f79.jpg",
@@ -14,11 +15,11 @@
     "static/media/ML.png": "/bindu-portfolio/static/media/ML.4098e21d420d0e14dc02.png",
     "static/media/srkr.jpg": "/bindu-portfolio/static/media/srkr.da3d7b98afc824095de6.jpg",
     "index.html": "/bindu-portfolio/index.html",
-    "main.37f774c6.css.map": "/bindu-portfolio/static/css/main.37f774c6.css.map",
-    "main.f0ecb4d9.js.map": "/bindu-portfolio/static/js/main.f0ecb4d9.js.map"
+    "main.c118f032.css.map": "/bindu-portfolio/static/css/main.c118f032.css.map",
+    "main.a37f0cca.js.map": "/bindu-portfolio/static/js/main.a37f0cca.js.map"
   },
   "entrypoints": [
-    "static/css/main.37f774c6.css",
-    "static/js/main.f0ecb4d9.js"
+    "static/css/main.c118f032.css",
+    "static/js/main.a37f0cca.js"
   ]
 }
