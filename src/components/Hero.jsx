@@ -36,7 +36,7 @@ const Hero = () => {
               Bindu Srivalli Nagineni
             </h1>
             <p className="text-lg md:text-xl text-pink-300 font-medium px-4 py-2 bg-white/10 backdrop-blur-sm rounded-md inline-block mt-2 hover:text-white transition-colors duration-300">
-              Data Scientist | Full-Stack Developer | Web Designer <br />
+              Data analyst | Software engineer  <br />
               <span className="text-lg text-white/70">("Yes, I write code. No, I won’t fix your printer.")</span>
             </p>
           </div>
@@ -55,19 +55,19 @@ const Hero = () => {
 
           {/* Socials with backdrop */}
           <div className="flex items-center gap-5 text-4xl text-pink-400 bg-black/60 px-6 py-3 rounded-full shadow-lg mt-4 md:mt-0 backdrop-blur-md border border-pink-400">
-            <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank" rel="noopener noreferrer" className="hover:text-white hover:scale-125 transition duration-300 ease-in-out">
+            <a href="https://www.linkedin.com/in/bindu-srivalli-nagineni-19686820b/" target="_blank" rel="noopener noreferrer" className="hover:text-white hover:scale-125 transition duration-300 ease-in-out">
               <FaLinkedin />
             </a>
-            <a href="https://github.com/YOUR_USERNAME" target="_blank" rel="noopener noreferrer" className="hover:text-white hover:scale-125 transition duration-300 ease-in-out">
+            <a href="https://github.com/bindusri-c" target="_blank" rel="noopener noreferrer" className="hover:text-white hover:scale-125 transition duration-300 ease-in-out">
               <FaGithub />
             </a>
-            <a href="https://leetcode.com/YOUR_USERNAME" target="_blank" rel="noopener noreferrer" className="hover:text-white hover:scale-125 transition duration-300 ease-in-out">
+            <a href="https://leetcode.com/u/naginenibindusrivalli/" target="_blank" rel="noopener noreferrer" className="hover:text-white hover:scale-125 transition duration-300 ease-in-out">
               <SiLeetcode />
             </a>
-            <a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank" rel="noopener noreferrer" className="hover:text-white hover:scale-125 transition duration-300 ease-in-out">
+            <a href="https://www.hackerrank.com/profile/bindu_srivalli" target="_blank" rel="noopener noreferrer" className="hover:text-white hover:scale-125 transition duration-300 ease-in-out">
               <FaHackerrank />
             </a>
-            <a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME/profile" target="_blank" rel="noopener noreferrer" className="hover:text-white hover:scale-125 transition duration-300 ease-in-out">
+            <a href="https://www.geeksforgeeks.org/user/code_here/" target="_blank" rel="noopener noreferrer" className="hover:text-white hover:scale-125 transition duration-300 ease-in-out">
               <SiGeeksforgeeks />
             </a>
           </div>
