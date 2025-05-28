@@ -1,7 +1,9 @@
 {
   "files": {
     "main.css": "/bindu-portfolio/static/css/main.c118f032.css",
-    "main.js": "/bindu-portfolio/static/js/main.a37f0cca.js",
+    "main.js": "/bindu-portfolio/static/js/main.92098ac6.js",
+    "static/media/grad 5.JPG": "/bindu-portfolio/static/media/grad 5.7b0eac7ffee8366cc907.JPG",
+    "static/media/grad 5.jpg": "/bindu-portfolio/static/media/grad 5.7b0eac7ffee8366cc907.jpg",
     "static/media/realvsfake.jpg": "/bindu-portfolio/static/media/realvsfake.b301460177fcd7b11c5a.jpg",
     "static/media/yawning.jpg": "/bindu-portfolio/static/media/yawning.52fbaa0a1805a33f3929.jpg",
     "static/media/india_crime.jpg": "/bindu-portfolio/static/media/india_crime.61f0a6e25480f91fd90b.jpg",
@@ -16,10 +18,10 @@
     "static/media/srkr.jpg": "/bindu-portfolio/static/media/srkr.da3d7b98afc824095de6.jpg",
     "index.html": "/bindu-portfolio/index.html",
     "main.c118f032.css.map": "/bindu-portfolio/static/css/main.c118f032.css.map",
-    "main.a37f0cca.js.map": "/bindu-portfolio/static/js/main.a37f0cca.js.map"
+    "main.92098ac6.js.map": "/bindu-portfolio/static/js/main.92098ac6.js.map"
   },
   "entrypoints": [
     "static/css/main.c118f032.css",
-    "static/js/main.a37f0cca.js"
+    "static/js/main.92098ac6.js"
   ]
 }
