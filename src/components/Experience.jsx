@@ -6,7 +6,7 @@ import srkrLogo from "../assets/srkr.jpg";
 const experiences = [
   {
     org: "University of Texas at Arlington",
-    role: "Administrative Assistant",
+    role: "Data analyst",
     time: "Aug 2024 – Present",
     logo: utaLogo,
     points: [
