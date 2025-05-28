@@ -3,7 +3,7 @@ import { FaLinkedin, FaGithub, FaHackerrank } from 'react-icons/fa';
 import { SiLeetcode, SiGeeksforgeeks } from 'react-icons/si';
 import profile1 from '../assets/bindu.jpg';
 import profile2 from '../assets/bindu2.jpg';
-import profile3 from '../assets/bindu3.jpg';
+import profile3 from '../assets/grad 5.jpg';
 
 const Hero = () => {
   const [showText, setShowText] = useState(true);
