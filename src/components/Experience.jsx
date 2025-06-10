@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import utaLogo from "../assets/uta.png";
-import quantumLogo from "../assets/quantum.png";
+import Lachic from "../assets/lachic.png";
 import srkrLogo from "../assets/srkr.jpg";
 
 const experiences = [
@@ -18,10 +18,10 @@ const experiences = [
     ],
   },
   {
-    org: "Quantum Learnings India",
-    role: "Machine Learning Engineer",
-    time: "Jan 2023 – Jul 2023",
-    logo: quantumLogo,
+    org: "LaChic Designs",
+    role: "Data Engineer",
+    time: "April 2022 – Jul 2023",
+    logo: Lachic,
     points: [
       "Built real-time ETL pipelines with Kafka, Hadoop, and Redshift.",
       "Improved feedback analysis with Python, NLP, and Tableau dashboards.",
